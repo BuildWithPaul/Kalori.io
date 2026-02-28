@@ -8,7 +8,8 @@ It uses the [OpenFoodFacts API](https://world.openfoodfacts.org/) to get nutriti
 
 See it in action:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNndPrcN-1g" title="AR Nutrition Scanner Demo" frameborder="0" allow="accelerometer; autoplay; clipboard‑write; encrypted‑media; gyroscope; picture‑in‑picture" allowfullscreen></iframe>
+[![Watch the demo](https://img.youtube.com/vi/PNndPrcN-1g/0.jpg)](https://www.youtube.com/watch?v=PNndPrcN-1g)  
+*Click the image to watch the video on YouTube.*
 
 ## Features
 
